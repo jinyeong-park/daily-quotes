@@ -41,6 +41,9 @@ class App extends Component {
       <div className='app'>
         <div className='card'>
            <h1 className='heading'>{quote}</h1>
+           <button className="button" onClick={this.fetchQuoteFromApi}>
+             <span>Give Me Another Quote!</span>
+            </button>
 
         </div>
       </div>
