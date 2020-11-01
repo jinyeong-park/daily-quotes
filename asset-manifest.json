@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/daily-quotes-api-app/static/css/main.71c72b66.chunk.css",
-    "main.js": "/daily-quotes-api-app/static/js/main.f9de3feb.chunk.js",
-    "main.js.map": "/daily-quotes-api-app/static/js/main.f9de3feb.chunk.js.map",
-    "runtime-main.js": "/daily-quotes-api-app/static/js/runtime-main.9cf7e6b6.js",
-    "runtime-main.js.map": "/daily-quotes-api-app/static/js/runtime-main.9cf7e6b6.js.map",
-    "static/js/2.26107c9d.chunk.js": "/daily-quotes-api-app/static/js/2.26107c9d.chunk.js",
-    "static/js/2.26107c9d.chunk.js.map": "/daily-quotes-api-app/static/js/2.26107c9d.chunk.js.map",
-    "static/js/3.67bd919a.chunk.js": "/daily-quotes-api-app/static/js/3.67bd919a.chunk.js",
-    "static/js/3.67bd919a.chunk.js.map": "/daily-quotes-api-app/static/js/3.67bd919a.chunk.js.map",
+    "main.css": "/daily-quotes-api-app/static/css/main.14139162.chunk.css",
+    "main.js": "/daily-quotes-api-app/static/js/main.ac9fcd27.chunk.js",
+    "main.js.map": "/daily-quotes-api-app/static/js/main.ac9fcd27.chunk.js.map",
+    "runtime-main.js": "/daily-quotes-api-app/static/js/runtime-main.c29c2a2f.js",
+    "runtime-main.js.map": "/daily-quotes-api-app/static/js/runtime-main.c29c2a2f.js.map",
+    "static/js/2.be371c05.chunk.js": "/daily-quotes-api-app/static/js/2.be371c05.chunk.js",
+    "static/js/2.be371c05.chunk.js.map": "/daily-quotes-api-app/static/js/2.be371c05.chunk.js.map",
+    "static/js/3.a557244d.chunk.js": "/daily-quotes-api-app/static/js/3.a557244d.chunk.js",
+    "static/js/3.a557244d.chunk.js.map": "/daily-quotes-api-app/static/js/3.a557244d.chunk.js.map",
     "index.html": "/daily-quotes-api-app/index.html",
-    "static/css/main.71c72b66.chunk.css.map": "/daily-quotes-api-app/static/css/main.71c72b66.chunk.css.map",
-    "static/js/2.26107c9d.chunk.js.LICENSE.txt": "/daily-quotes-api-app/static/js/2.26107c9d.chunk.js.LICENSE.txt"
+    "static/css/main.14139162.chunk.css.map": "/daily-quotes-api-app/static/css/main.14139162.chunk.css.map",
+    "static/js/2.be371c05.chunk.js.LICENSE.txt": "/daily-quotes-api-app/static/js/2.be371c05.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9cf7e6b6.js",
-    "static/js/2.26107c9d.chunk.js",
-    "static/css/main.71c72b66.chunk.css",
-    "static/js/main.f9de3feb.chunk.js"
+    "static/js/runtime-main.c29c2a2f.js",
+    "static/js/2.be371c05.chunk.js",
+    "static/css/main.14139162.chunk.css",
+    "static/js/main.ac9fcd27.chunk.js"
   ]
 }
